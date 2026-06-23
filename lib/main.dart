@@ -33,7 +33,7 @@ class TeamDeviceHomePage extends StatelessWidget {
     TeamMember(role: '组员 A', name: '刘欣雨', task: '修改应用标题、口号和小组名'),
     TeamMember(role: '组员 B', name: '石文芝', task: '补全成员信息与分工'),
     TeamMember(role: '组员 C', name: '孙晨恩', task: '补充Android真机检查项'),
-    TeamMember(role: '组员 D', name: '高建阳', task: '补充证据规则、README照片说明'),
+    TeamMember(role: '组员 D', name: '高建洋', task: '补充证据规则、README照片说明'),
   ];
   
   static const List<String> realDeviceChecks = [
